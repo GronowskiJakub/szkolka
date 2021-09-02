@@ -1,2 +1,2 @@
-# szkolka
+# school
 szkolne rzeczy
